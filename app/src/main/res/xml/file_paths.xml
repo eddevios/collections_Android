@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- Permiso para el caché externo, ideal para fotos temporales -->
+<external-cache-path
+    name="external_cache"
+    path="." />
+
+<!-- Permiso para archivos externos (en la carpeta Pictures) -->
+<external-files-path
+    name="my_images"
+    path="Pictures"/>
+
+<!-- Puedes mantener estas si también las necesitas para otras cosas -->
+<files-path
+    name="internal_files"
+    path="." />
+
+</paths>

@@ -1,0 +1,45 @@
+<!-- res/values-it/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- O Collezioni -->
+    <string name="category">Categoria</string>
+    <string name="collectable">Oggetto da collezione</string>
+    <string name="search_placeholder">Cerca...</string>
+    <string name="not_result">Nessun risultato trovato per %1$s</string>
+    <string name="create_collection">Crea Collezione</string>
+    <string name="create_category">Crea categoria</string>
+    <string name="create_collectable">Crea Oggetto da collezione</string>
+    <string name="name_collection">Nome della collezione</string>
+    <string name="name_category">Nome della categoria</string>
+    <string name="title">Titolo</string>
+    <string name="subtitle">Sottotitolo</string>
+    <string name="not_empty_title">Il titolo non può essere vuoto</string>
+    <string name="image_select">Seleziona Immagine</string>
+    <string name="cam_or_img">Vuoi usare la fotocamera o selezionare un\'immagine dalla galleria?</string>
+    <string name="camera">Fotocamera</string>
+    <string name="gallery">Galleria</string>
+    <string name="save">Salva</string>
+    <string name="whitin_categories">Nessuna categoria ancora. Aggiungine una!</string>
+    <string name="comments">Commenti</string>
+    <string name="camera_error">Errore durante la preparazione della fotocamera</string>
+    <string name="camera_denied">Permesso fotocamera negato</string>
+    <string name="mark_favorite">Contrassegna come Preferito:</string>
+    <string name="loading">Caricamento...</string>
+    <string name="no_collections_title">Nessuna collezione</string>
+    <string name="no_categories_title">Nessuna categoria</string>
+    <string name="no_collectables_title">Nessun oggetto da collezione</string>
+    <string name="no_collections_subtitle">Inizia creando la tua prima collezione</string>
+    <string name="no_categories_subtitle">Inizia creando la tua prima categoria</string>
+    <string name="no_collectables_subtitle">Inizia creando il tuo primo oggetto da collezione</string>
+    <string name="clear_search">Cancella ricerca</string>
+    <string name="edit">Modifica</string>
+    <string name="sure">Sei sicuro?</string>
+    <string name="delete">Elimina</string>
+    <string name="cancel">Annulla</string>
+    <string name="delete_collection">Elimina collezione</string>
+    <string name="delete_category">Elimina categoria</string>
+    <string name="delete_collectable">Elimina oggetto da collezione</string>
+    <string name="wish_delete">Sei sicuro di voler eliminare \"%s\"?</string>
+    <string name="no_photo">La foto non è stata scattata</string>
+    <string name="no_dont_create_photo">Impossibile creare il file per l’immagine</string>
+    <string name="open_camera">Apri fotocamera</string>
+</resources>

@@ -1,0 +1,45 @@
+<!-- res/values-zh/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- O considera un nombre localizado como 收藏 (Shōucáng) -->
+    <string name="category">类别</string>
+    <string name="collectable">收藏品</string>
+    <string name="search_placeholder">搜索...</string>
+    <string name="not_result">未找到%1$s的结果</string>
+    <string name="create_collection">创建收藏</string>
+    <string name="create_category">创建分类</string>
+    <string name="create_collectable">创建收藏品</string>
+    <string name="name_collection">收藏名称</string>
+    <string name="name_category">类别名称</string>
+    <string name="title">标题</string>
+    <string name="subtitle">副标题</string>
+    <string name="not_empty_title">标题不能为空</string>
+    <string name="image_select">选择图片</string>
+    <string name="cam_or_img">您想使用相机还是从图库中选择图片？</string>
+    <string name="camera">相机</string>
+    <string name="gallery">图库</string>
+    <string name="save">保存</string>
+    <string name="whitin_categories">尚无类别。添加一个！</string>
+    <string name="comments">评论</string>
+    <string name="camera_error">准备相机时出错</string>
+    <string name="camera_denied">相机权限被拒绝</string>
+    <string name="mark_favorite">标记为收藏：</string>
+    <string name="loading">正在加载...</string>
+    <string name="no_collections_title">没有收藏集</string>
+    <string name="no_categories_title">没有分类</string>
+    <string name="no_collectables_title">没有可收藏品</string>
+    <string name="no_collections_subtitle">从创建您的第一个收藏开始</string>
+    <string name="no_categories_subtitle">从创建您的第一个分类开始</string>
+    <string name="no_collectables_subtitle">从创建您的第一个收藏品开始</string>
+    <string name="clear_search">清除搜索</string>
+    <string name="edit">编辑</string>
+    <string name="sure">你确定吗？</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="delete_collection">删除收藏</string>
+    <string name="delete_category">删除分类</string>
+    <string name="delete_collectable">删除收藏品</string>
+    <string name="wish_delete">您确定要删除\"%s\"吗？</string>
+    <string name="no_photo">未拍摄照片</string>
+    <string name="no_dont_create_photo">无法为图像创建文件</string>
+    <string name="open_camera">打开相机</string>
+</resources>

@@ -1,0 +1,45 @@
+<!-- res/values-el/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- Ή Συλλογές (Sylloges) -->
+    <string name="category">Κατηγορία</string>
+    <string name="collectable">Συλλεκτικό αντικείμενο</string>
+    <string name="search_placeholder">Αναζήτηση...</string>
+    <string name="not_result">Δεν βρέθηκαν αποτελέσματα για %1$s</string>
+    <string name="create_collection">Δημιουργία Συλλογής</string>
+    <string name="create_category">Δημιουργία κατηγορίας</string>
+    <string name="create_collectable">Δημιουργία Συλλεκτικού</string>
+    <string name="name_collection">Όνομα συλλογής</string>
+    <string name="name_category">Όνομα κατηγορίας</string>
+    <string name="title">Τίτλος</string>
+    <string name="subtitle">Υπότιτλος</string>
+    <string name="not_empty_title">Ο τίτλος δεν μπορεί να είναι κενός</string>
+    <string name="image_select">Επιλογή Εικόνας</string>
+    <string name="cam_or_img">Θέλετε να χρησιμοποιήσετε την κάμερα ή να επιλέξετε μια εικόνα από τη συλλογή;</string>
+    <string name="camera">Κάμερα</string>
+    <string name="gallery">Συλλογή</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="whitin_categories">Δεν υπάρχουν ακόμη κατηγορίες. Προσθέστε μία!</string>
+    <string name="comments">Σχόλια</string>
+    <string name="camera_error">Σφάλμα κατά την προετοιμασία της κάμερας</string>
+    <string name="camera_denied">Η άδεια κάμερας απορρίφθηκε</string>
+    <string name="mark_favorite">Σήμανση ως Αγαπημένο:</string>
+    <string name="loading">Φόρτωση...</string>
+    <string name="no_collections_title">Δεν υπάρχουν συλλογές</string>
+    <string name="no_categories_title">Δεν υπάρχουν κατηγορίες</string>
+    <string name="no_collectables_title">Δεν υπάρχουν συλλεκτικά</string>
+    <string name="no_collections_subtitle">Ξεκινήστε δημιουργώντας την πρώτη σας συλλογή</string>
+    <string name="no_categories_subtitle">Ξεκινήστε δημιουργώντας την πρώτη σας κατηγορία</string>
+    <string name="no_collectables_subtitle">Ξεκινήστε δημιουργώντας το πρώτο σας συλλεκτικό</string>
+    <string name="clear_search">Καθαρισμός αναζήτησης</string>
+    <string name="edit">Επεξεργασία</string>
+    <string name="sure">Είσαι σίγουρος;</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="delete_collection">Διαγραφή συλλογής</string>
+    <string name="delete_category">Διαγραφή κατηγορίας</string>
+    <string name="delete_collectable">Διαγραφή συλλεκτικού</string>
+    <string name="wish_delete">Είστε σίγουροι ότι θέλετε να διαγράψετε \"%s\";</string>
+    <string name="no_photo">Δεν τραβήχτηκε η φωτογραφία</string>
+    <string name="no_dont_create_photo">Δεν ήταν δυνατή η δημιουργία του αρχείου για την εικόνα</string>
+    <string name="open_camera">Άνοιγμα κάμερας</string>
+</resources>

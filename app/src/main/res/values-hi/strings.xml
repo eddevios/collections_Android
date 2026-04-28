@@ -1,0 +1,45 @@
+<!-- res/values-hi/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- Collections -->
+    <string name="category">श्रेणी</string>
+    <string name="collectable">संग्रहणीय</string>
+    <string name="search_placeholder">खोजें...</string>
+    <string name="not_result">%1$s के लिए कोई परिणाम नहीं मिला</string>
+    <string name="create_collection">संग्रह बनाएँ</string>
+    <string name="create_category">श्रेणी बनाएँ</string>
+    <string name="create_collectable">संग्रहणीय बनाएँ</string>
+    <string name="name_collection">संग्रह का नाम</string>
+    <string name="name_category">श्रेणी का नाम</string>
+    <string name="title">शीर्षक</string>
+    <string name="subtitle">उपशीर्षक</string>
+    <string name="not_empty_title">शीर्षक खाली नहीं हो सकता</string>
+    <string name="image_select">छवि चुनें</string>
+    <string name="cam_or_img">क्या आप कैमरा का उपयोग करना चाहते हैं या गैलरी से छवि चुनना चाहते हैं?</string>
+    <string name="camera">कैमरा</string>
+    <string name="gallery">गैलरी</string>
+    <string name="save">सहेजें</string>
+    <string name="whitin_categories">अभी तक कोई श्रेणी नहीं है। एक जोड़ें!</string>
+    <string name="comments">टिप्पणियाँ</string>
+    <string name="camera_error">कैमरा तैयार करते समय त्रुटि हुई</string>
+    <string name="camera_denied">कैमरा अनुमति अस्वीकृत</string>
+    <string name="mark_favorite">पसंदीदा के रूप में चिह्नित करें:</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="no_collections_title">कोई संग्रह नहीं</string>
+    <string name="no_categories_title">कोई श्रेणियां नहीं</string>
+    <string name="no_collectables_title">कोई संग्रहणीय वस्तु नहीं</string>
+    <string name="no_collections_subtitle">अपना पहला संग्रह बनाकर शुरू करें</string>
+    <string name="no_categories_subtitle">अपनी पहली श्रेणी बनाकर शुरू करें</string>
+    <string name="no_collectables_subtitle">अपना पहला संग्रहणीय वस्तु बनाकर शुरू करें</string>
+    <string name="clear_search">खोज साफ़ करें</string>
+    <string name="edit">संपादित करें</string>
+    <string name="sure">क्या आप सुनिश्चित हैं?</string>
+    <string name="delete">हटाएं</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete_collection">संग्रह हटाएं</string>
+    <string name="delete_category">श्रेणी हटाएं</string>
+    <string name="delete_collectable">संग्रहणीय वस्तु हटाएं</string>
+    <string name="wish_delete">क्या आप वाकई \"%s\" हटाना चाहते हैं?</string>
+    <string name="no_photo">फोटो नहीं ली गई</string>
+    <string name="no_dont_create_photo">छवि के लिए फ़ाइल नहीं बनाई जा सकी</string>
+    <string name="open_camera">कैमरा खोलें</string>
+</resources>

@@ -1,0 +1,45 @@
+<!-- res/values-in/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- Atau Koleksi -->
+    <string name="category">Kategori</string>
+    <string name="collectable">Barang Koleksi</string>
+    <string name="search_placeholder">Cari...</string>
+    <string name="not_result">Tidak ada hasil ditemukan untuk %1$s</string>
+    <string name="create_collection">Buat Koleksi</string>
+    <string name="create_category">Buat Kategori</string>
+    <string name="create_collectable">Buat Barang Koleksi</string>
+    <string name="name_collection">Nama koleksi</string>
+    <string name="name_category">Nama kategori</string>
+    <string name="title">Judul</string>
+    <string name="subtitle">Subjudul</string>
+    <string name="not_empty_title">Judul tidak boleh kosong</string>
+    <string name="image_select">Pilih Gambar</string>
+    <string name="cam_or_img">Apakah Anda ingin menggunakan kamera atau memilih gambar dari galeri?</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="save">Simpan</string>
+    <string name="whitin_categories">Belum ada kategori. Tambahkan satu!</string>
+    <string name="comments">Komentar</string>
+    <string name="camera_error">Kesalahan saat menyiapkan kamera</string>
+    <string name="camera_denied">Izin kamera ditolak</string>
+    <string name="mark_favorite">Tandai sebagai Favorit:</string>
+    <string name="loading">Memuat...</string>
+    <string name="no_collections_title">Tidak ada koleksi</string>
+    <string name="no_categories_title">Tidak ada kategori</string>
+    <string name="no_collectables_title">Tidak ada kolektibel</string>
+    <string name="no_collections_subtitle">Mulailah dengan membuat koleksi pertamamu</string>
+    <string name="no_categories_subtitle">Mulailah dengan membuat kategori pertamamu</string>
+    <string name="no_collectables_subtitle">Mulailah dengan membuat kolektibel pertamamu</string>
+    <string name="clear_search">Hapus pencarian</string>
+    <string name="edit">Edit</string>
+    <string name="sure">Apakah Anda yakin?</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="delete_collection">Hapus koleksi</string>
+    <string name="delete_category">Hapus kategori</string>
+    <string name="delete_collectable">Hapus kolektibel</string>
+    <string name="wish_delete">Apakah Anda yakin ingin menghapus \"%s\"?</string>
+    <string name="no_photo">Foto tidak diambil</string>
+    <string name="no_dont_create_photo">Tidak dapat membuat file untuk gambar</string>
+    <string name="open_camera">Buka kamera</string>
+</resources>

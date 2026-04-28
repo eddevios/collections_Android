@@ -1,0 +1,45 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string>
+    <string name="category">Category</string>
+    <string name="collectable">Collectible</string>
+    <string name="search_placeholder">Search...</string>
+    <string name="not_result">No results found for %1$s</string>
+    <string name="create_collection">Create Collection</string>
+    <string name="create_category">Create Category</string>
+    <string name="create_collectable">Create Collectible</string>
+    <string name="name_collection">Collection name</string>
+    <string name="name_category">Category name</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="not_empty_title">Title cannot be empty</string>
+    <string name="image_select">Select Image</string>
+    <string name="cam_or_img">Do you want to use the camera or select an image from the gallery?</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="save">Save</string>
+    <string name="whitin_categories">No categories yet. Add one!</string>
+    <string name="comments">Comments</string>
+    <string name="camera_error">Error al preparar la cámara</string>
+    <string name="camera_denied">Camera permission denied</string>
+    <string name="mark_favorite">Mark as Favorite:</string>
+    <string name="loading">Loading...</string>
+    <string name="no_collections_title">No collections</string>
+    <string name="no_categories_title">No categories</string>
+    <string name="no_collectables_title">No collectibles</string>
+    <string name="no_collections_subtitle">Start by creating your first collection</string>
+    <string name="no_categories_subtitle">Start by creating your first category</string>
+    <string name="no_collectables_subtitle">Start by creating your first collectible</string>
+    <string name="clear_search">Clear search</string>edit
+    <string name="edit">Edit</string>
+    <string name="sure">Are you sure?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_collection">Delete collection</string>
+    <string name="delete_category">Delete category</string>
+    <string name="delete_collectable">Delete collectable</string>
+    <string name="wish_delete">Are you sure you want to delete \"%s\"?</string>
+    <string name="no_photo">The photo was not taken</string>
+    <string name="no_dont_create_photo">The file for the image could not be created</string>
+    <string name="open_camera">Open camera</string>
+</resources>

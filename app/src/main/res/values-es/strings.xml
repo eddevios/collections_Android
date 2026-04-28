@@ -1,0 +1,45 @@
+<!-- res/values-es/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string>
+    <string name="category">Categoría</string>
+    <string name="collectable">Coleccionable</string>
+    <string name="search_placeholder">Buscar...</string>
+    <string name="not_result">No se encontraron resultados para %1$s</string>
+    <string name="create_collection">Crear Colección</string>
+    <string name="create_category">Crear Categoría</string>
+    <string name="create_collectable">Crear Coleccionable</string>
+    <string name="name_collection">Nombre de la colección</string>
+    <string name="name_category">Nombre de la categoría</string>
+    <string name="title">Título</string>
+    <string name="subtitle">Subtítulo</string>
+    <string name="not_empty_title">El título no puede estar vacío</string>
+    <string name="image_select">Seleccionar Imagen</string>
+    <string name="cam_or_img">¿Deseas usar la cámara o seleccionar una imagen de la galería?</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+    <string name="save">Guardar</string>
+    <string name="whitin_categories">Aún no hay categorías. ¡Añade una!</string>
+    <string name="comments">Comentarios</string>
+    <string name="camera_error">Error al preparar la cámara</string>
+    <string name="camera_denied">Permiso de cámara denegado</string>
+    <string name="mark_favorite">Marcar como Favorito:</string>
+    <string name="loading">Cargando...</string>
+    <string name="no_collections_title">No hay colecciones</string>
+    <string name="no_categories_title">No hay categorías</string>
+    <string name="no_collectables_title">No hay coleccionables</string>
+    <string name="no_collections_subtitle">Comienza creando tu primera colección</string>
+    <string name="no_categories_subtitle">Comienza creando tu primera categoría</string>
+    <string name="no_collectables_subtitle">Comienza creando tu primer coleccionable</string>
+    <string name="clear_search">Limpiar búsqueda</string>
+    <string name="edit">Editar</string>
+    <string name="sure">¿Estás seguro?</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_collection">Eliminar colección</string>
+    <string name="delete_category">Eliminar categoría</string>
+    <string name="delete_collectable">Eliminar coleccionable</string>
+    <string name="wish_delete">¿Estás seguro de que quieres eliminar \"%s\"?</string>
+    <string name="no_photo">No se tomó la foto</string>
+    <string name="no_dont_create_photo">No se pudo crear el archivo para la imagen</string>
+    <string name="open_camera">Abrir cámara</string>
+</resources>

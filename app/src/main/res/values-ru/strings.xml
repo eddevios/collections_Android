@@ -1,0 +1,45 @@
+<!-- res/values-ru/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- Или Коллекции -->
+    <string name="category">Категория</string>
+    <string name="collectable">Коллекционный предмет</string>
+    <string name="search_placeholder">Поиск...</string>
+    <string name="not_result">Не найдено результатов для %1$s</string>
+    <string name="create_collection">Создать коллекцию</string>
+    <string name="create_category">Создать категорию</string>
+    <string name="create_collectable">Создать коллекционный предмет</string>
+    <string name="name_collection">Название коллекции</string>
+    <string name="name_category">Название категории</string>
+    <string name="title">Заголовок</string>
+    <string name="subtitle">Подзаголовок</string>
+    <string name="not_empty_title">Заголовок не может быть пустым</string>
+    <string name="image_select">Выбрать изображение</string>
+    <string name="cam_or_img">Использовать камеру или выбрать изображение из галереи?</string>
+    <string name="camera">Камера</string>
+    <string name="gallery">Галерея</string>
+    <string name="save">Сохранить</string>
+    <string name="whitin_categories">Категорий пока нет. Добавьте одну!</string>
+    <string name="comments">Комментарии</string>
+    <string name="camera_error">Ошибка при подготовке камеры</string>
+    <string name="camera_denied">Доступ к камере запрещен</string>
+    <string name="mark_favorite">Отметить как избранное:</string>
+    <string name="loading">Загрузка...</string>
+    <string name="no_collections_title">Нет коллекций</string>
+    <string name="no_categories_title">Нет категорий</string>
+    <string name="no_collectables_title">Нет коллекционных предметов</string>
+    <string name="no_collections_subtitle">Начните с создания своей первой коллекции</string>
+    <string name="no_categories_subtitle">Начните с создания своей первой категории</string>
+    <string name="no_collectables_subtitle">Начните с создания своего первого коллекционного предмета</string>
+    <string name="clear_search">Очистить поиск</string>
+    <string name="edit">Редактировать</string>
+    <string name="sure">Вы уверены?</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_collection">Удалить коллекцию</string>
+    <string name="delete_category">Удалить категорию</string>
+    <string name="delete_collectable">Удалить коллекционный предмет</string>
+    <string name="wish_delete">Вы уверены, что хотите удалить \"%s\"?</string>
+    <string name="no_photo">Фото не было сделано</string>
+    <string name="no_dont_create_photo">Не удалось создать файл для изображения</string>
+    <string name="open_camera">Открыть камеру</string>
+</resources>

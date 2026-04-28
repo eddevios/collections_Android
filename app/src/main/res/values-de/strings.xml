@@ -1,0 +1,45 @@
+<!-- res/values-de/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- Oder Sammlungen -->
+    <string name="category">Kategorie</string>
+    <string name="collectable">Sammlerstück</string>
+    <string name="search_placeholder">Suchen...</string>
+    <string name="not_result">Keine Ergebnisse gefunden für %1$s</string>
+    <string name="create_collection">Sammlung erstellen</string>
+    <string name="create_category">Kategorie erstellen</string>
+    <string name="create_collectable">Sammlerstück erstellen</string>
+    <string name="name_collection">Name der Sammlung</string>
+    <string name="name_category">Kategoriename</string>
+    <string name="title">Titel</string>
+    <string name="subtitle">Untertitel</string>
+    <string name="not_empty_title">Titel darf nicht leer sein</string>
+    <string name="image_select">Bild auswählen</string>
+    <string name="cam_or_img">Möchten Sie die Kamera verwenden oder ein Bild aus der Galerie auswählen?</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
+    <string name="save">Speichern</string>
+    <string name="whitin_categories">Noch keine Kategorien vorhanden. Füge eine hinzu!</string>
+    <string name="comments">Kommentare</string>
+    <string name="camera_error">Fehler beim Vorbereiten der Kamera</string>
+    <string name="camera_denied">Kameraberechtigung verweigert</string>
+    <string name="mark_favorite">Als Favorit markieren:</string>
+    <string name="loading">Wird geladen...</string>
+    <string name="no_collections_title">Keine Sammlungen</string>
+    <string name="no_categories_title">Keine Kategorien</string>
+    <string name="no_collectables_title">Keine Sammelobjekte</string>
+    <string name="no_collections_subtitle">Beginnen Sie mit Ihrer ersten Sammlung</string>
+    <string name="no_categories_subtitle">Beginnen Sie mit Ihrer ersten Kategorie</string>
+    <string name="no_collectables_subtitle">Beginnen Sie mit Ihrem ersten Sammelobjekt</string>
+    <string name="clear_search">Suche löschen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="sure">Bist du sicher?</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="delete_collection">Sammlung löschen</string>
+    <string name="delete_category">Kategorie löschen</string>
+    <string name="delete_collectable">Sammelobjekt löschen</string>
+    <string name="wish_delete">Sind Sie sicher, dass Sie \"%s\" löschen möchten?</string>
+    <string name="no_photo">Das Foto wurde nicht aufgenommen</string>
+    <string name="no_dont_create_photo">Die Datei für das Bild konnte nicht erstellt werden</string>
+    <string name="open_camera">Kamera öffnen</string>
+</resources>

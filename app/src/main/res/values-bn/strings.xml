@@ -1,0 +1,45 @@
+<!-- res/values-bn/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- Collections -->
+    <string name="category">বিভাগ</string>
+    <string name="collectable">সংগ্রহযোগ্য</string>
+    <string name="search_placeholder">অনুসন্ধান...</string>
+    <string name="not_result">%1$s এর জন্য কোনো ফলাফল পাওয়া যায়নি</string>
+    <string name="create_collection">সংগ্রহ তৈরি করুন</string>
+    <string name="create_category">বিভাগ তৈরি করুন</string>
+    <string name="create_collectable">সংগ্রহযোগ্য তৈরি করুন</string>
+    <string name="name_collection">সংগ্রহের নাম</string>
+    <string name="name_category">বিভাগের নাম</string>
+    <string name="title">শিরোনাম</string>
+    <string name="subtitle">উপশিরোনাম</string>
+    <string name="not_empty_title">শিরোনাম খালি রাখা যাবে না</string>
+    <string name="image_select">ছবি নির্বাচন করুন</string>
+    <string name="cam_or_img">আপনি কি ক্যামেরা ব্যবহার করতে চান নাকি গ্যালারি থেকে ছবি নির্বাচন করতে চান?</string>
+    <string name="camera">ক্যামেরা</string>
+    <string name="gallery">গ্যালারি</string>
+    <string name="save">সংরক্ষণ</string>
+    <string name="whitin_categories">এখনও কোন বিভাগ নেই। একটি যোগ করুন!</string>
+    <string name="comments">মন্তব্য</string>
+    <string name="camera_error">ক্যামেরা প্রস্তুত করার সময় ত্রুটি</string>
+    <string name="camera_denied">ক্যামেরার অনুমতি প্রত্যাখ্যান করা হয়েছে</string>
+    <string name="mark_favorite">প্রিয় হিসাবে চিহ্নিত করুন:</string>
+    <string name="loading">লোড হচ্ছে...</string>
+    <string name="no_collections_title">কোনো সংগ্রহ নেই</string>
+    <string name="no_categories_title">কোনো বিভাগ নেই</string>
+    <string name="no_collectables_title">কোনো সংগ্রহযোগ্য জিনিস নেই</string>
+    <string name="no_collections_subtitle">আপনার প্রথম সংগ্রহ তৈরি করে শুরু করুন</string>
+    <string name="no_categories_subtitle">আপনার প্রথম বিভাগ তৈরি করে শুরু করুন</string>
+    <string name="no_collectables_subtitle">আপনার প্রথম সংগ্রাহ্য আইটেম তৈরি করে শুরু করুন</string>
+    <string name="clear_search">অনুসন্ধান সাফ করুন</string>
+    <string name="edit">সম্পাদনা</string>
+    <string name="sure">আপনি কি নিশ্চিত?</string>
+    <string name="delete">মুছে ফেলুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="delete_collection">সংগ্রহ মুছুন</string>
+    <string name="delete_category">বিভাগ মুছুন</string>
+    <string name="delete_collectable">সংগ্রাহ্য আইটেম মুছুন</string>
+    <string name="wish_delete">আপনি কি \"%s\" মুছে ফেলতে চান?</string>
+    <string name="no_photo">ছবিটি তোলা হয়নি</string>
+    <string name="no_dont_create_photo">ছবির জন্য ফাইল তৈরি করা যায়নি</string>
+    <string name="open_camera">ক্যামেরা খুলুন</string>
+</resources>

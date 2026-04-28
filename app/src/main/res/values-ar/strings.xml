@@ -1,0 +1,45 @@
+<!-- res/values-ar/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- أو مجموعات (Majmueat) -->
+    <string name="category">فئة</string>
+    <string name="collectable">عنصر قابل للتحصيل</string>
+    <string name="search_placeholder">بحث...</string>
+    <string name="not_result">لم يتم العثور على نتائج لـ %1$s</string>
+    <string name="create_collection">إنشاء مجموعة</string>
+    <string name="create_category">إنشاء فئة</string>
+    <string name="create_collectable">إنشاء عنصر قابل للتحصيل</string>
+    <string name="name_collection">اسم المجموعة</string>
+    <string name="name_category">اسم الفئة</string>
+    <string name="title">العنوان</string>
+    <string name="subtitle">العنوان الفرعي</string>
+    <string name="not_empty_title">لا يمكن أن يكون العنوان فارغًا</string>
+    <string name="image_select">اختيار صورة</string>
+    <string name="cam_or_img">هل تريد استخدام الكاميرا أم اختيار صورة من المعرض؟</string>
+    <string name="camera">الكاميرا</string>
+    <string name="gallery">المعرض</string>
+    <string name="save">حفظ</string>
+    <string name="whitin_categories">لا توجد فئات بعد. أضف واحدة!</string>
+    <string name="comments">تعليقات</string>
+    <string name="camera_error">خطأ أثناء تحضير الكاميرا</string>
+    <string name="camera_denied">تم رفض إذن الكاميرا</string>
+    <string name="mark_favorite">وضع علامة كمفضلة:</string>
+    <string name="loading">جارٍ التحميل...</string>
+    <string name="no_collections_title">لا توجد مجموعات</string>
+    <string name="no_categories_title">لا توجد فئات</string>
+    <string name="no_collectables_title">لا توجد سِقَاطِيّات</string>
+    <string name="no_collections_subtitle">ابدأ بإنشاء مجموعتك الأولى</string>
+    <string name="no_categories_subtitle">ابدأ بإنشاء فئتك الأولى</string>
+    <string name="no_collectables_subtitle">ابدأ بإنشاء أول عنصر تجميع لديك</string>
+    <string name="clear_search">مسح البحث</string>
+    <string name="edit">تعديل</string>
+    <string name="sure">هل أنت متأكد؟</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete_collection">حذف المجموعة</string>
+    <string name="delete_category">حذف الفئة</string>
+    <string name="delete_collectable">حذف العنصر القابل للتجميع</string>
+    <string name="wish_delete">هل أنت متأكد أنك تريد حذف \"%s\"؟</string>
+    <string name="no_photo">لم يتم التقاط الصورة</string>
+    <string name="no_dont_create_photo">تعذر إنشاء ملف للصورة</string>
+    <string name="open_camera">افتح الكاميرا</string>
+</resources>

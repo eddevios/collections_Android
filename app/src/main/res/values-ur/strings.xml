@@ -1,0 +1,45 @@
+<!-- res/values-ur/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- Collections -->
+    <string name="category">زمرہ</string>
+    <string name="collectable">جمع کرنے والی شے</string>
+    <string name="search_placeholder">تلاش کریں...</string>
+    <string name="not_result">%1$s کا کوئی نتیجہ نہیں ملا</string>
+    <string name="create_collection">مجموعہ بنائیں</string>
+    <string name="create_category">زمرہ بنائیں</string>
+    <string name="create_collectable">جمع کرنے والی شے بنائیں</string>
+    <string name="name_collection">مجموعہ کا نام</string>
+    <string name="name_category">زمرہ کا نام</string>
+    <string name="title">عنوان</string>
+    <string name="subtitle">ذیلی عنوان</string>
+    <string name="not_empty_title">عنوان خالی نہیں ہو سکتا</string>
+    <string name="image_select">تصویر منتخب کریں</string>
+    <string name="cam_or_img">کیا آپ کیمرہ استعمال کرنا چاہتے ہیں یا گیلری سے تصویر منتخب کرنا چاہتے ہیں؟</string>
+    <string name="camera">کیمرہ</string>
+    <string name="gallery">گیلری</string>
+    <string name="save">محفوظ کریں</string>
+    <string name="whitin_categories">ابھی تک کوئی زمرہ نہیں ہے۔ ایک شامل کریں!</string>
+    <string name="comments">تبصرے</string>
+    <string name="camera_error">کیمرہ تیار کرتے وقت خرابی</string>
+    <string name="camera_denied">کیمرہ کی اجازت مسترد کر دی گئی</string>
+    <string name="mark_favorite">پسندیدہ کے طور پر نشان زد کریں:</string>
+    <string name="loading">لوڈ ہو رہا ہے...</string>
+    <string name="no_collections_title">کوئی کلیکشن نہیں</string>
+    <string name="no_categories_title">کوئی زمرہ جات نہیں</string>
+    <string name="no_collectables_title">کوئی جمع کرنے کے قابل اشیاء نہیں</string>
+    <string name="no_collections_subtitle">اپنا پہلا مجموعہ بنانے سے شروع کریں</string>
+    <string name="no_categories_subtitle">اپنی پہلی زمرہ بنانے سے شروع کریں</string>
+    <string name="no_collectables_subtitle">اپنی پہلی قابل جمع چیز بنانے سے شروع کریں</string>
+    <string name="clear_search">تلاش صاف کریں</string>
+    <string name="edit">ترمیم</string>
+    <string name="sure">کیا آپ کو یقین ہے؟</string>
+    <string name="delete">حذف کریں</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="delete_collection">مجموعہ حذف کریں</string>
+    <string name="delete_category">زمرہ حذف کریں</string>
+    <string name="delete_collectable">قابل جمع چیز حذف کریں</string>
+    <string name="wish_delete">کیا آپ واقعی \"%s\" حذف کرنا چاہتے ہیں؟</string>
+    <string name="no_photo">تصویر نہیں لی گئی</string>
+    <string name="no_dont_create_photo">تصویر کے لیے فائل نہیں بن سکی</string>
+    <string name="open_camera">کیمرہ کھولیں</string>
+</resources>

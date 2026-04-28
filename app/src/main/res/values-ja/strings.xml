@@ -1,0 +1,45 @@
+<!-- res/values-ja/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- または コレクションズ (Korekushonzu) -->
+    <string name="category">カテゴリ</string>
+    <string name="collectable">コレクションアイテム</string>
+    <string name="search_placeholder">検索...</string>
+    <string name="not_result">%1$s の結果が見つかりませんでした</string>
+    <string name="create_collection">コレクションを作成</string>
+    <string name="create_category">カテゴリを作成</string>
+    <string name="create_collectable">コレクションアイテムを作成</string>
+    <string name="name_collection">コレクション名</string>
+    <string name="name_category">カテゴリ名</string>
+    <string name="title">タイトル</string>
+    <string name="subtitle">サブタイトル</string>
+    <string name="not_empty_title">タイトルは空にできません</string>
+    <string name="image_select">画像を選択</string>
+    <string name="cam_or_img">カメラを使用しますか、それともギャラリーから画像を選択しますか？</string>
+    <string name="camera">カメラ</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="save">保存</string>
+    <string name="whitin_categories">まだカテゴリがありません。追加してください！</string>
+    <string name="comments">コメント</string>
+    <string name="camera_error">カメラの準備中にエラーが発生しました</string>
+    <string name="camera_denied">カメラの権限が拒否されました</string>
+    <string name="mark_favorite">お気に入りとしてマーク:</string>
+    <string name="loading">読み込み中...</string>
+    <string name="no_collections_title">コレクションがありません</string>
+    <string name="no_categories_title">カテゴリがありません</string>
+    <string name="no_collectables_title">コレクタブルアイテムがありません</string>
+    <string name="no_collections_subtitle">最初のコレクションを作成して始めましょう</string>
+    <string name="no_categories_subtitle">最初のカテゴリを作成して始めましょう</string>
+    <string name="no_collectables_subtitle">最初のコレクタブルアイテムを作成して始めましょう</string>
+    <string name="clear_search">検索をクリア</string>
+    <string name="edit">編集</string>
+    <string name="sure">本当によろしいですか？</string>
+    <string name="delete">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="delete_collection">コレクションを削除</string>
+    <string name="delete_category">カテゴリを削除</string>
+    <string name="delete_collectable">コレクタブルアイテムを削除</string>
+    <string name="wish_delete">\"%s\"を削除してもよろしいですか？</string>
+    <string name="no_photo">写真が撮影されませんでした</string>
+    <string name="no_dont_create_photo">画像用のファイルを作成できませんでした</string>
+    <string name="open_camera">カメラを開く</string>
+</resources>

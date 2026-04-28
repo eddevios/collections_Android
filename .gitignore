@@ -1,0 +1,35 @@
+# Gradle y compilación
+.gradle/
+**/build/
+
+# Configuración local
+local.properties
+app/google-services.json
+
+# IDE (Android Studio / IntelliJ)
+*.iml
+.idea/
+
+# Archivos de firma
+*.jks
+*.keystore
+
+# Artefactos generados
+*.apk
+*.ap_
+*.dex
+*.class
+*.aab  # ⬅️ AÑADIDO AQUÍ
+
+# Logs y captures
+*.log
+captures/
+
+# OS específicos
+.DS_Store
+Thumbs.db
+
+# NDK
+.externalNativeBuild/
+.cxx/
+

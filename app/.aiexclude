@@ -1,0 +1,39 @@
+# Ignorar archivos sensibles y claves
+local.properties
+*.keystore
+*.jks
+*.pem
+secrets.*
+*.p12
+
+# Configuración de IntelliJ/IDE
+.idea/
+*.iml
+.vscode/
+.cache/
+.gradle/
+out/
+
+# Directorios de build/outputs
+build/
+*/build/
+test-results/
+logs/
+crash_reports/
+
+# Archivos temporales o basura
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.log
+
+# Archivos de entorno y variables
+*.env
+
+# Archivos generados automáticamente
+generated/
+*.generated.*
+
+# Archivos específicos (ejemplo)
+#/Users/eddevios/Developer/ANDROID/Collections/collections_Android/app/src/main/java/com/example/dont_touch.kt

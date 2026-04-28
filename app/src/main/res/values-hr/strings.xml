@@ -1,0 +1,45 @@
+<!-- res/values-hr/strings.xml -->
+<resources>
+    <string name="app_name">Collections</string> <!-- Ili Kolekcije -->
+    <string name="category">Kategorija</string>
+    <string name="collectable">Kolekcionarski predmet</string>
+    <string name="search_placeholder">Pretraži...</string>
+    <string name="not_result">Nema rezultata za %1$s</string>
+    <string name="create_collection">Stvori kolekciju</string>
+    <string name="create_category">Kreiraj kategoriju</string>
+    <string name="create_collectable">Stvori kolekcionarski predmet</string>
+    <string name="name_collection">Naziv kolekcije</string>
+    <string name="name_category">Naziv kategorije</string>
+    <string name="title">Naslov</string>
+    <string name="subtitle">Podnaslov</string>
+    <string name="not_empty_title">Naslov ne smije biti prazan</string>
+    <string name="image_select">Odaberi sliku</string>
+    <string name="cam_or_img">Želite li koristiti kameru ili odabrati sliku iz galerije?</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerija</string>
+    <string name="save">Spremi</string>
+    <string name="whitin_categories">Još nema kategorija. Dodajte jednu!</string>
+    <string name="comments">Komentari</string>
+    <string name="camera_error">Pogreška pri pripremi kamere</string>
+    <string name="camera_denied">Dopuštenje za kameru odbijeno</string>
+    <string name="mark_favorite">Označi kao favorit:</string>
+    <string name="loading">Učitavanje...</string>
+    <string name="no_collections_title">Nema kolekcija</string>
+    <string name="no_categories_title">Nema kategorija</string>
+    <string name="no_collectables_title">Nema kolekcionarskih predmeta</string>
+    <string name="no_collections_subtitle">Započnite stvaranjem svoje prve kolekcije</string>
+    <string name="no_categories_subtitle">Započnite stvaranjem svoje prve kategorije</string>
+    <string name="no_collectables_subtitle">Započnite stvaranjem svog prvog kolekcionarskog predmeta</string>
+    <string name="clear_search">Očisti pretraživanje</string>
+    <string name="edit">Uredi</string>
+    <string name="sure">Jeste li sigurni?</string>
+    <string name="delete">Izbriši</string>
+    <string name="cancel">Otkaži</string>
+    <string name="delete_collection">Izbriši kolekciju</string>
+    <string name="delete_category">Izbriši kategoriju</string>
+    <string name="delete_collectable">Izbriši kolekcionarski predmet</string>
+    <string name="wish_delete">Jeste li sigurni da želite izbrisati \"%s\"?</string>
+    <string name="no_photo">Fotografija nije snimljena</string>
+    <string name="no_dont_create_photo">Datoteka za sliku nije mogla biti stvorena</string>
+    <string name="open_camera">Otvori kameru</string>
+</resources>
