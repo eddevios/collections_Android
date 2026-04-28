@@ -6199,14 +6199,14 @@ alias(libs.plugins.hilt)
 
 android {
 namespace = "com.eddevios.collections"
-compileSdk = 36
+compileSdk = 35
 
     defaultConfig {
         applicationId = "com.eddevios.collections"
         minSdk = 24
-        targetSdk = 36
-        versionCode = 17
-        versionName = "1.0.5"
+        targetSdk = 35
+        versionCode = 19
+        versionName = "1.0.7"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 

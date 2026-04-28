@@ -18,14 +18,14 @@ if (localPropertiesFile.exists()) {
 
 android {
     namespace = "com.eddevios.collections"
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.eddevios.collections"
         minSdk = 24
-        targetSdk = 36
-        versionCode = 18
-        versionName = "1.0.6"
+        targetSdk = 35
+        versionCode = 19
+        versionName = "1.0.7"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
         // Placeholder por defecto (puedes poner el de test aquí también)
@@ -50,7 +50,7 @@ android {
                 "proguard-rules.pro"
             )
             ndk {
-                debugSymbolLevel = "FULL"
+                debugSymbolLevel = "full"
             }
 
             // IDs REALES leídos de local.properties
