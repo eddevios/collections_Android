@@ -237,6 +237,13 @@ Los datos se almacenan localmente usando entidades Room (`CollectionEntity`, `Ca
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.VIBRATE" />
 
+    <!-- FORZAR ELIMINACIÓN DE PERMISOS MULTIMEDIA PARA CUMPLIR POLÍTICAS DE GOOGLE -->
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" tools:node="remove" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" tools:node="remove" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" tools:node="remove" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" tools:node="remove" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" tools:node="remove" />
+
 </manifest>
 ```
 
@@ -6205,8 +6212,8 @@ compileSdk = 35
         applicationId = "com.eddevios.collections"
         minSdk = 24
         targetSdk = 35
-        versionCode = 19
-        versionName = "1.0.7"
+        versionCode = 20
+        versionName = "1.0.8"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 

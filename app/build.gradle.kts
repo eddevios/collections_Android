@@ -24,8 +24,8 @@ android {
         applicationId = "com.eddevios.collections"
         minSdk = 24
         targetSdk = 35
-        versionCode = 19
-        versionName = "1.0.7"
+        versionCode = 20
+        versionName = "1.0.8"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
         // Placeholder por defecto (puedes poner el de test aquí también)
